@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qjmv3cxry8wu"
-path="res://.godot/imported/progress-background.png-998a5bde492cb044f40021717cd2a939.ctex"
+uid="uid://ik8x7e5hasst"
+path="res://.godot/imported/global_clock_parameters.png-a42094ddb32b8c8177e33331edfb9b62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/my_plugin/assets/progress-background.png"
-dest_files=["res://.godot/imported/progress-background.png-998a5bde492cb044f40021717cd2a939.ctex"]
+source_file="res://images/global_clock_parameters.png"
+dest_files=["res://.godot/imported/global_clock_parameters.png-a42094ddb32b8c8177e33331edfb9b62.ctex"]
 
 [params]
 
