@@ -36,7 +36,7 @@ To better understand what branch to choose from for which Godot version, please 
 
 # Global day & night clock ⌚
 
-This autoload scene located in `` can be used to have a global clock in your game. Create a game-ready day & night system in no time and don't worry about it.
+This autoload scene located in `res://addons/ninetailsrabbit.indie_blueprint_global_clock/src/global_clock.tscn` can be used to have a global clock in your game. Create a game-ready day & night system in no time and don't worry about it.
 
 ## Signals
 
