@@ -1,5 +1,5 @@
 @tool
-class_name MyPluginSettings extends RefCounted
+class_name IndieBlueprintGlobalClockSettings extends RefCounted
 
 const PluginPrefixName: String = "ninetailsrabbit.indie_blueprint_global_clock" ## The folder name
 const GitRepositoryName: String = "indie-blueprint-global-clock"

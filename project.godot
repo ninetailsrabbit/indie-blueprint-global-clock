@@ -16,6 +16,14 @@ config/version="1.0.0"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+IndieBlueprintGlobalClock="*res://addons/ninetailsrabbit.indie_blueprint_global_clock/src/global_clock.tscn"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ninetailsrabbit.indie_blueprint_global_clock/plugin.cfg")
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
