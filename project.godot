@@ -12,8 +12,8 @@ config_version=5
 
 config/name="Indie Blueprint Global Clock"
 config/description="Manipulate the day, hour, minutes and access this information globally in your game. Create a game-ready day & night system in no time and don't worry about it"
-config/version="1.0.0"
-config/features=PackedStringArray("4.3", "GL Compatibility")
+config/version="1.1.0"
+config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
